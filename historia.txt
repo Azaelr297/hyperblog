@@ -1,3 +1,5 @@
-Este es azael 
+Hola mi nombre es Azael y soy de mexico
 
-tiene 25 de edad y es mexicano
+Tengo 25 anos de edad y me encanta 
+
+Aprender cosas nuevas como data science
