@@ -3,3 +3,5 @@ Hola mi nombre es Azael y soy de mexico
 Tengo 25 anos de edad y me encanta 
 
 Aprender cosas nuevas como data science
+
+Data Science es un curso de platzi que me esta encantando
